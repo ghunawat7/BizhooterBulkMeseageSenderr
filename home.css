@@ -1,0 +1,126 @@
+*{
+    margin: 0px; 
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    
+}
+
+.india{
+    font-size: 65px;
+}
+.yellow{
+    color: #ffc107;
+}
+
+.line{
+    font-size: 19px;
+    color: white;
+    line-height: 1px !important;
+}
+.india2{
+    background-color: #000a56;
+    color: white;
+}
+
+
+.there{
+    color: #252a51;
+}
+
+.line2{
+    font-size: 19px;
+    color: #1d213d ;
+    
+}
+
+.border{
+    border-radius: 8px;
+}
+
+.one{
+    height: 65px;
+    width: 65px;
+    /* background-color: red; */
+    border-radius: 100%;
+    /* margin-left: 80px; */
+}
+/* color */
+.red{
+    background-color: red;
+    
+}
+.color2{
+    background-color: #000a56;
+}
+
+.color3{
+    background-color: #a1057e;
+}
+
+.color4{
+    background-color: #037d0e;
+}
+
+.box{
+    border: 3px solid #252a51;
+    border-radius: 10px;
+}
+
+ /* @media screen and (max-width: 1350px) {
+    .video {
+        height: auto;
+        width: auto;
+        background-position: cover;
+        margin-left: -100px;
+    }
+  }  */
+
+
+
+
+  @media screen and (max-width: 700px)
+  {
+    .india
+    {
+        font-size: 40px !important;
+    }
+  }
+
+  .pricing {
+
+    height: 130px;
+    width: 330px;
+    
+
+    
+}
+.myy{
+     box-shadow: 0px 3px 20px -3px grey; 
+}
+
+.buy{
+    background-color: #ffc107;
+}
+
+.buy:hover {
+    background-color: #0ebd0e;
+    color: white;
+}
+
+.green{
+    color: #0ebd0e;
+}
+
+.features{
+    font-size: 19px;
+    
+}
+
+.border2{
+    border:10px solid  #0ebd0e;
+    border-radius:15px;
+}
+
+
